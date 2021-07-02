@@ -1,13 +1,14 @@
-# hdfc-faq
+# faq uaing accordian
 
 ## Summary
 
-Short summary on functionality and used technologies.
+I have used SharePoint online along with PnP library to create FAQ type accordian.
 
-[picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/45258794/124304988-15a07200-db82-11eb-821a-d36e2d10d2c9.png)
+
 
 ## Used SharePoint Framework Version
-
+Node 14.17.0
 ![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
 
 ## Applies to
@@ -25,7 +26,7 @@ Short summary on functionality and used technologies.
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+FAQ Accordian | Suman Kumar
 
 ## Version history
 
